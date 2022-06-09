@@ -13,3 +13,11 @@
 - [Geometry](#Geometry)
 - [Advanced Techniques](#Advanced-Techniques)
 - [Additional Problems](#Additional-Problems)
+
+## Introductory Problems
+
+## Sorting and Searching
+
+## Dynamic Programming
+
+## Graph Algorithms
