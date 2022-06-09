@@ -35,3 +35,4 @@
 ## Advanced Techniques
 
 ## Additional Problems
+[Soring Methods](code/Sorting%20Methods.cpp)
