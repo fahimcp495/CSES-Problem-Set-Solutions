@@ -15,6 +15,7 @@
 - [Additional Problems](#Additional-Problems)
 
 ## Introductory Problems
+[Weird Algorithm](Weird%20Algorithm.cpp)
 
 ## Sorting and Searching
 
